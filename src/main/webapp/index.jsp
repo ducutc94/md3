@@ -28,7 +28,7 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<form action="/login" method="get">
+<form action="/LoginServlet" method="get">
     <div class="login">
         <h2>Login</h2>
         <input type="text" name="username" size="15" placeholder="username"/>
